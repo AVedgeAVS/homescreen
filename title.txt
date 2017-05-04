@@ -1,4 +1,4 @@
 IPTV
 Builds
-Apps
-Settings
+Android Apps
+Android Settings
